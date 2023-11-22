@@ -1,0 +1,4 @@
+nes-py==8.2.1
+gym==0.20.0
+gym-super-mario-bros==7.4.0
+pandas
